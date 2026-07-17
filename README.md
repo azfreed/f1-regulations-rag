@@ -2,9 +2,12 @@
 
 A local, inspectable **RAG test bed** over the 2026 FIA Formula 1 Regulations.
 
-The goal is not a black-box chatbot. It is a pipeline where **every stage is
+The goal is to create a sandbox for Retrieval Augmented Generation where **every stage is
 visible, independently testable, and swappable** so you can learn about and
-experiment with retrieval-augmented generation on a real, structured corpus.
+experiment with retrieval-augmented generation on a real, structured corpus. 
+In this case, the chosen corpus is the 2026 F1 Regulations.
+
+Included:
 
 - 16 explicit pipeline stages, each with a typed interface and a standalone
   implementation (see [docs/pipeline.md](docs/pipeline.md)).

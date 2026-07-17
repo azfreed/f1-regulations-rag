@@ -1,0 +1,201 @@
+{
+  "source_filename": "section-e-financial-pu.pdf",
+  "section": "E",
+  "document_title": "SECTION E: FINANCIAL REGULATIONS (POWER UNIT MANUFACTURERS)",
+  "issue_number": 6,
+  "publication_date": "2026-06-25",
+  "wmsc_approval_date": "2026-06-23",
+  "page_count": 60,
+  "n_articles": 158,
+  "n_toc_pages": 2,
+  "first_articles": [
+    {
+      "article_number": "E1",
+      "parent_article": null,
+      "heading": "GENERAL PRINCIPLES",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": ""
+    },
+    {
+      "article_number": "E1.1",
+      "parent_article": "E1",
+      "heading": "Scope",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": ""
+    },
+    {
+      "article_number": "E1.1.1",
+      "parent_article": "E1.1",
+      "heading": "Scope",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": "These Financial Regulations (Power Unit Manufacturers) will come into force on 1 January 2026 in\nrespect of Financial Re"
+    },
+    {
+      "article_number": "E1.2",
+      "parent_article": "E1",
+      "heading": "Objectives",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": ""
+    },
+    {
+      "article_number": "E1.2.1",
+      "parent_article": "E1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": "These Financial Regulations (Power Unit Manufacturers) define a Power Unit Cost Cap that limits\ncertain costs that may b"
+    },
+    {
+      "article_number": "E1.2.2",
+      "parent_article": "E1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": "These Financial Regulations (Power Unit Manufacturers) are designed to help achieve the following\nobjectives (the \"Finan"
+    },
+    {
+      "article_number": "E1.2.3",
+      "parent_article": "E1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": "These Financial Regulations (Power Unit Manufacturers) will be interpreted and applied by the Cost\nCap Administration, t"
+    },
+    {
+      "article_number": "E1.2.4",
+      "parent_article": "E1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": "The definitive version of these Financial Regulations (Power Unit Manufacturers) is the English\nversion, which will be u"
+    },
+    {
+      "article_number": "E1.2.5",
+      "parent_article": "E1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 3,
+      "page_label": "E3",
+      "text_preview": "If any part of these Financial Regulations (Power Unit Manufacturers) is found by a court or\nauthority of competent juri"
+    },
+    {
+      "article_number": "E1.2.6",
+      "parent_article": "E1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 4,
+      "page_label": "E4",
+      "text_preview": "The Cost Cap Administration shall periodically review these Financial Regulations (Power Unit\nManufacturers). These Fina"
+    },
+    {
+      "article_number": "E1.3",
+      "parent_article": "E1",
+      "heading": "Accountability",
+      "pdf_page_number": 4,
+      "page_label": "E4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "E1.3.1",
+      "parent_article": "E1.3",
+      "heading": "Accountability",
+      "pdf_page_number": 4,
+      "page_label": "E4",
+      "text_preview": "Each Power Unit Manufacturer must ensure that all Power Unit Activities Personnel are made\naware:\na. of the Objectives, "
+    },
+    {
+      "article_number": "E1.3.2",
+      "parent_article": "E1.3",
+      "heading": "Accountability",
+      "pdf_page_number": 4,
+      "page_label": "E4",
+      "text_preview": "Each Power Unit Manufacturer must ensure that all relevant Power Unit Activities Personnel are\nappropriately informed an"
+    },
+    {
+      "article_number": "E1.3.3",
+      "parent_article": "E1.3",
+      "heading": "Accountability",
+      "pdf_page_number": 4,
+      "page_label": "E4",
+      "text_preview": "Each Power Unit Manufacturer must ensure that the FIA ethics and compliance policy in force from\ntime to time with respe"
+    },
+    {
+      "article_number": "E2",
+      "parent_article": null,
+      "heading": "POWER UNIT MANUFACTURER OBLIGATIONS",
+      "pdf_page_number": 5,
+      "page_label": "E5",
+      "text_preview": ""
+    }
+  ],
+  "likely_visual_pages": [
+    {
+      "pdf_page_number": 1,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 44,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-e-financial-pu/page-001.png"
+    },
+    {
+      "pdf_page_number": 6,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 65,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-e-financial-pu/page-006.png"
+    },
+    {
+      "pdf_page_number": 17,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 106,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-e-financial-pu/page-017.png"
+    },
+    {
+      "pdf_page_number": 18,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table",
+        "equation"
+      ],
+      "drawing_path_count": 106,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-e-financial-pu/page-018.png"
+    },
+    {
+      "pdf_page_number": 48,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 43,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-e-financial-pu/page-048.png"
+    },
+    {
+      "pdf_page_number": 60,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table",
+        "equation"
+      ],
+      "drawing_path_count": 899,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-e-financial-pu/page-060.png"
+    }
+  ],
+  "warnings": []
+}

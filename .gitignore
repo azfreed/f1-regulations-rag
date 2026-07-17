@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Env / secrets
+.env
+
+# Model + tool caches
+.cache/
+.pytest_cache/
+.ruff_cache/
+*.log
+
+# Generated pipeline artifacts (kept out of git by default; see docs).
+# Diagnostic reports under experiments/diagnostics are committed intentionally.
+data/extracted/*
+data/processed/*
+data/visual/*
+indexes/*
+experiments/traces/*
+experiments/runs/*
+
+# Keep directory placeholders and committed diagnostic reports.
+!data/extracted/.gitkeep
+!data/processed/.gitkeep
+!data/visual/.gitkeep
+!indexes/.gitkeep
+!experiments/.gitkeep
+!experiments/diagnostics/**
+
+# macOS
+.DS_Store

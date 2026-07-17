@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "f1-regulations-rag"
+version = "0.1.0"
+description = "A local, inspectable RAG test bed over the 2026 FIA Formula 1 Regulations."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "f1-regulations-rag" }]
+dependencies = [
+    "pymupdf>=1.24",
+    "pydantic>=2.6",
+    "pydantic-settings>=2.2",
+    "numpy>=1.26",
+    "rank-bm25>=0.2.2",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+# Heavier / optional components. The system runs end-to-end without these
+# because the default embedder can fall back to a hashing encoder and the
+# default index is the NumPy store. Install these for real semantic search
+# and answer generation.
+embeddings = ["sentence-transformers>=2.7"]
+chroma = ["chromadb>=0.5"]
+anthropic = ["anthropic>=0.34"]
+dev = ["pytest>=8.0"]
+all = [
+    "sentence-transformers>=2.7",
+    "chromadb>=0.5",
+    "anthropic>=0.34",
+    "pytest>=8.0",
+]
+
+[project.scripts]
+f1-rag = "f1_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

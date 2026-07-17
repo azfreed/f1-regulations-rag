@@ -1,0 +1,166 @@
+{
+  "source_filename": "section-d-financial-teams.pdf",
+  "section": "D",
+  "document_title": "SECTION D: FINANCIAL REGULATIONS (F1 TEAMS)",
+  "issue_number": 7,
+  "publication_date": "2026-06-25",
+  "wmsc_approval_date": "2026-06-23",
+  "page_count": 64,
+  "n_articles": 250,
+  "n_toc_pages": 3,
+  "first_articles": [
+    {
+      "article_number": "D1",
+      "parent_article": null,
+      "heading": "GENERAL PRINCIPLES",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.1",
+      "parent_article": "D1",
+      "heading": "Scope",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.1.1",
+      "parent_article": "D1.1",
+      "heading": "Scope",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "These Financial Regulations will come into force on 1 January 2026 in respect of Financial\nRegulations Reporting Periods"
+    },
+    {
+      "article_number": "D1.1.2",
+      "parent_article": "D1.1",
+      "heading": "Scope",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "By participating in the Championship, each F1 Team and each Individual F1 Team Member agrees\nto be bound by and undertak"
+    },
+    {
+      "article_number": "D1.2",
+      "parent_article": "D1",
+      "heading": "Objectives",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.2.1",
+      "parent_article": "D1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "These Financial Regulations define a Cost Cap that limits certain costs that may be incurred by or\non behalf of an F1 Te"
+    },
+    {
+      "article_number": "D1.2.2",
+      "parent_article": "D1.2",
+      "heading": "Objectives",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "Together with the FIA Formula One Financial Regulations for Power Unit Manufacturers, these\nFinancial Regulations are de"
+    },
+    {
+      "article_number": "D1.3",
+      "parent_article": "D1",
+      "heading": "Interpretation",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.3.1",
+      "parent_article": "D1.3",
+      "heading": "[Replaced by Article A9.4.2]",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.3.2",
+      "parent_article": "D1.3",
+      "heading": "[Replaced by Article A9.4.2]",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "These Financial Regulations will be interpreted and applied by the Cost Cap Administration, the\nCost Cap Adjudication Pa"
+    },
+    {
+      "article_number": "D1.3.3",
+      "parent_article": "D1.3",
+      "heading": "[Replaced by Article A9.4.2]",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "The definitive version of these Financial Regulations is the English version, which will be used\nshould any dispute aris"
+    },
+    {
+      "article_number": "D1.3.4",
+      "parent_article": "D1.3",
+      "heading": "[Replaced by Article A9.4.6]",
+      "pdf_page_number": 4,
+      "page_label": "D4",
+      "text_preview": "0\nD"
+    },
+    {
+      "article_number": "D1.4",
+      "parent_article": "D1",
+      "heading": "Transitional provisions",
+      "pdf_page_number": 5,
+      "page_label": "D5",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.4.1",
+      "parent_article": "D1.4",
+      "heading": "[Replaced by Article A9.8.1]",
+      "pdf_page_number": 5,
+      "page_label": "D5",
+      "text_preview": ""
+    },
+    {
+      "article_number": "D1.4.2",
+      "parent_article": "D1.4",
+      "heading": "[Replaced by Article A9.8.2]",
+      "pdf_page_number": 5,
+      "page_label": "D5",
+      "text_preview": ""
+    }
+  ],
+  "likely_visual_pages": [
+    {
+      "pdf_page_number": 1,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 41,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-d-financial-teams/page-001.png"
+    },
+    {
+      "pdf_page_number": 8,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 73,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-d-financial-teams/page-008.png"
+    },
+    {
+      "pdf_page_number": 51,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 44,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-d-financial-teams/page-051.png"
+    }
+  ],
+  "warnings": []
+}

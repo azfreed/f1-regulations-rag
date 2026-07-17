@@ -1,0 +1,223 @@
+{
+  "source_filename": "section-b-sporting.pdf",
+  "section": "B",
+  "document_title": "SECTION B: SPORTING REGULATIONS",
+  "issue_number": 7,
+  "publication_date": "2026-06-25",
+  "wmsc_approval_date": "2026-06-23",
+  "page_count": 99,
+  "n_articles": 409,
+  "n_toc_pages": 3,
+  "first_articles": [
+    {
+      "article_number": "B1",
+      "parent_article": null,
+      "heading": "ORGANISATION OF A COMPETITION",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "B1.1",
+      "parent_article": "B1",
+      "heading": "General Principles & Provisions",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "B1.1.1",
+      "parent_article": "B1.1",
+      "heading": "General Principles & Provisions",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": "A Competition commences four (4) hours before FP1 is scheduled to start and ends at the time for\nthe lodging of a protes"
+    },
+    {
+      "article_number": "B1.1.2",
+      "parent_article": "B1.1",
+      "heading": "Instructions And Communications To Competitors",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": "a.\nThe stewards or Race Director may give instructions to Competitors by means of special\ncirculars in accordance with t"
+    },
+    {
+      "article_number": "B1.1.3",
+      "parent_article": "B1.1",
+      "heading": "Instructions And Communications To Competitors",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": "Unless written permission has been given by the FIA to do otherwise, the circuit may only be used\nfor purposes other tha"
+    },
+    {
+      "article_number": "B1.1.4",
+      "parent_article": "B1.1",
+      "heading": "Instructions And Communications To Competitors",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": "Other than by driving on the track, Competitors are not permitted to attempt to alter the grip of any\npart of the track "
+    },
+    {
+      "article_number": "B1.1.5",
+      "parent_article": "B1.1",
+      "heading": "Instructions And Communications To Competitors",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": "The Race Director, the Chief Medical Officer (CMO) or the Medical Delegate can require a driver to\nhave a medical examin"
+    },
+    {
+      "article_number": "B1.2",
+      "parent_article": "B1",
+      "heading": "FIA Delegates",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": ""
+    },
+    {
+      "article_number": "B1.2.1",
+      "parent_article": "B1.2",
+      "heading": "FIA Delegates",
+      "pdf_page_number": 4,
+      "page_label": "B4",
+      "text_preview": "For each Competition the FIA will nominate the following delegates:\na.\nSafety Delegate.\nb.\nMedical Delegate.\nc.\nTechnica"
+    },
+    {
+      "article_number": "B1.2.2",
+      "parent_article": "B1.2",
+      "heading": "FIA Delegates",
+      "pdf_page_number": 5,
+      "page_label": "B5",
+      "text_preview": "The role of the FIA delegates is to help the officials of the Competition in their duties, to see within\ntheir fields of"
+    },
+    {
+      "article_number": "B1.2.3",
+      "parent_article": "B1.2",
+      "heading": "FIA Delegates",
+      "pdf_page_number": 5,
+      "page_label": "B5",
+      "text_preview": "The Technical Delegate nominated by the FIA is responsible for scrutineering. In this respect the\nTechnical Delegate may"
+    },
+    {
+      "article_number": "B1.3",
+      "parent_article": "B1",
+      "heading": "Officials",
+      "pdf_page_number": 5,
+      "page_label": "B5",
+      "text_preview": ""
+    },
+    {
+      "article_number": "B1.3.1",
+      "parent_article": "B1.3",
+      "heading": "Officials",
+      "pdf_page_number": 5,
+      "page_label": "B5",
+      "text_preview": "From among holders of an FIA Super Licence the following officials will be nominated by the FIA:\na.\nA minimum of three a"
+    },
+    {
+      "article_number": "B1.3.2",
+      "parent_article": "B1.3",
+      "heading": "Officials",
+      "pdf_page_number": 5,
+      "page_label": "B5",
+      "text_preview": "From among holders of an FIA Super Licence the following officials will be nominated by the ASN\nand their names sent to "
+    },
+    {
+      "article_number": "B1.3.3",
+      "parent_article": "B1.3",
+      "heading": "Officials",
+      "pdf_page_number": 5,
+      "page_label": "B5",
+      "text_preview": "The Clerk of the Course shall work in permanent consultation with the Race Director. The Race\nDirector shall have overri"
+    }
+  ],
+  "likely_visual_pages": [
+    {
+      "pdf_page_number": 4,
+      "kinds": [
+        "table"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-004.png"
+    },
+    {
+      "pdf_page_number": 7,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-007.png"
+    },
+    {
+      "pdf_page_number": 56,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 122,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-056.png"
+    },
+    {
+      "pdf_page_number": 57,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 94,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-057.png"
+    },
+    {
+      "pdf_page_number": 86,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 221,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-086.png"
+    },
+    {
+      "pdf_page_number": 87,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 206,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-087.png"
+    },
+    {
+      "pdf_page_number": 88,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 236,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-088.png"
+    },
+    {
+      "pdf_page_number": 89,
+      "kinds": [
+        "table"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-089.png"
+    },
+    {
+      "pdf_page_number": 91,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-b-sporting/page-091.png"
+    }
+  ],
+  "warnings": []
+}

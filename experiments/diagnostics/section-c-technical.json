@@ -1,0 +1,1639 @@
+{
+  "source_filename": "section-c-technical.pdf",
+  "section": "C",
+  "document_title": "SECTION C: TECHNICAL REGULATIONS",
+  "issue_number": 19,
+  "publication_date": "2026-06-25",
+  "wmsc_approval_date": "2026-06-23",
+  "page_count": 257,
+  "n_articles": 992,
+  "n_toc_pages": 6,
+  "first_articles": [
+    {
+      "article_number": "C1",
+      "parent_article": null,
+      "heading": "GENERAL PRINCIPLES",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": ""
+    },
+    {
+      "article_number": "C1.1",
+      "parent_article": "C1",
+      "heading": "Formula One World Championship",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": ""
+    },
+    {
+      "article_number": "C1.1.1",
+      "parent_article": "C1.1",
+      "heading": "Formula One World Championship",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "The FIA will organise the FIA Formula One World Championship (the \"Championship\") which is the\nproperty of the FIA and c"
+    },
+    {
+      "article_number": "C1.1.2",
+      "parent_article": "C1.1",
+      "heading": "Formula One World Championship",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "The Championship and each of its Competitions are governed by the FIA in accordance with the\nRegulations, as defined bel"
+    },
+    {
+      "article_number": "C1.2",
+      "parent_article": "C1",
+      "heading": "Regulatory Framework",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": ""
+    },
+    {
+      "article_number": "C1.2.1",
+      "parent_article": "C1.2",
+      "heading": "Regulatory Framework",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "The regulations applicable to the Championship are the International Sporting Code (the ISC), the\nFormula One Technical "
+    },
+    {
+      "article_number": "C1.2.2",
+      "parent_article": "C1.2",
+      "heading": "Regulatory Framework",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "Subject to Article C1.2.3, these Regulations are issued by the FIA and apply to the whole calendar\nyear referred to in t"
+    },
+    {
+      "article_number": "C1.2.3",
+      "parent_article": "C1.2",
+      "heading": "Regulatory Framework",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "These Technical Regulations regard the FIA Formula One World Championship starting from 2026,\nand additionally outline v"
+    },
+    {
+      "article_number": "C1.1",
+      "parent_article": "C1",
+      "heading": "Interpretation of and Amendments to these Technical Regulations",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": ""
+    },
+    {
+      "article_number": "C1.3.1",
+      "parent_article": "C1.3",
+      "heading": "Interpretation of and Amendments to these Technical Regulations",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "The definitive text of the Technical Regulations shall be the English version which will be used\nshould any dispute aris"
+    },
+    {
+      "article_number": "C1.3.2",
+      "parent_article": "C1.3",
+      "heading": "Interpretation of and Amendments to these Technical Regulations",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "Headings in this document are for ease of reference only and do not affect the meaning of the\nTechnical Regulations."
+    },
+    {
+      "article_number": "C1.3.3",
+      "parent_article": "C1.3",
+      "heading": "Interpretation of and Amendments to these Technical Regulations",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "Unless stated otherwise, references to \u201cArticles\u201d herein are to articles of these Technical\nRegulations."
+    },
+    {
+      "article_number": "C1.3.4",
+      "parent_article": "C1.3",
+      "heading": "Interpretation of and Amendments to these Technical Regulations",
+      "pdf_page_number": 7,
+      "page_label": "C7",
+      "text_preview": "In the sense of the Regulations, terms referring to natural persons are applicable to any gender.\n0\nC"
+    },
+    {
+      "article_number": "C1.3.5",
+      "parent_article": "C1.3",
+      "heading": "Interpretation of and Amendments to these Technical Regulations",
+      "pdf_page_number": 8,
+      "page_label": "C8",
+      "text_preview": "Any amendments to these Technical Regulations that do not relate specifically to the Power Unit or\nthat relate to matter"
+    },
+    {
+      "article_number": "C1.2",
+      "parent_article": "C1",
+      "heading": "Dangerous construction",
+      "pdf_page_number": 8,
+      "page_label": "C8",
+      "text_preview": "The stewards may prohibit the participation of a vehicle whose construction is deemed to be\ndangerous. Should the releva"
+    }
+  ],
+  "likely_visual_pages": [
+    {
+      "pdf_page_number": 1,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 48,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-001.png"
+    },
+    {
+      "pdf_page_number": 7,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 90,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-007.png"
+    },
+    {
+      "pdf_page_number": 10,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-010.png"
+    },
+    {
+      "pdf_page_number": 11,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-011.png"
+    },
+    {
+      "pdf_page_number": 12,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-012.png"
+    },
+    {
+      "pdf_page_number": 14,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-014.png"
+    },
+    {
+      "pdf_page_number": 16,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-016.png"
+    },
+    {
+      "pdf_page_number": 17,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-017.png"
+    },
+    {
+      "pdf_page_number": 19,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-019.png"
+    },
+    {
+      "pdf_page_number": 20,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-020.png"
+    },
+    {
+      "pdf_page_number": 21,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-021.png"
+    },
+    {
+      "pdf_page_number": 23,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-023.png"
+    },
+    {
+      "pdf_page_number": 24,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-024.png"
+    },
+    {
+      "pdf_page_number": 25,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 6,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-025.png"
+    },
+    {
+      "pdf_page_number": 26,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 6,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-026.png"
+    },
+    {
+      "pdf_page_number": 27,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-027.png"
+    },
+    {
+      "pdf_page_number": 30,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-030.png"
+    },
+    {
+      "pdf_page_number": 31,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-031.png"
+    },
+    {
+      "pdf_page_number": 32,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-032.png"
+    },
+    {
+      "pdf_page_number": 33,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-033.png"
+    },
+    {
+      "pdf_page_number": 34,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-034.png"
+    },
+    {
+      "pdf_page_number": 35,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-035.png"
+    },
+    {
+      "pdf_page_number": 36,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-036.png"
+    },
+    {
+      "pdf_page_number": 37,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-037.png"
+    },
+    {
+      "pdf_page_number": 38,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-038.png"
+    },
+    {
+      "pdf_page_number": 39,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-039.png"
+    },
+    {
+      "pdf_page_number": 40,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-040.png"
+    },
+    {
+      "pdf_page_number": 41,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-041.png"
+    },
+    {
+      "pdf_page_number": 42,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-042.png"
+    },
+    {
+      "pdf_page_number": 45,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-045.png"
+    },
+    {
+      "pdf_page_number": 46,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-046.png"
+    },
+    {
+      "pdf_page_number": 47,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-047.png"
+    },
+    {
+      "pdf_page_number": 49,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-049.png"
+    },
+    {
+      "pdf_page_number": 50,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table",
+        "equation"
+      ],
+      "drawing_path_count": 247,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-050.png"
+    },
+    {
+      "pdf_page_number": 51,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table",
+        "equation"
+      ],
+      "drawing_path_count": 339,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-051.png"
+    },
+    {
+      "pdf_page_number": 52,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table",
+        "equation"
+      ],
+      "drawing_path_count": 155,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-052.png"
+    },
+    {
+      "pdf_page_number": 53,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-053.png"
+    },
+    {
+      "pdf_page_number": 54,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-054.png"
+    },
+    {
+      "pdf_page_number": 55,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-055.png"
+    },
+    {
+      "pdf_page_number": 56,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-056.png"
+    },
+    {
+      "pdf_page_number": 57,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-057.png"
+    },
+    {
+      "pdf_page_number": 58,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-058.png"
+    },
+    {
+      "pdf_page_number": 59,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-059.png"
+    },
+    {
+      "pdf_page_number": 61,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-061.png"
+    },
+    {
+      "pdf_page_number": 62,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-062.png"
+    },
+    {
+      "pdf_page_number": 63,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-063.png"
+    },
+    {
+      "pdf_page_number": 64,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 7,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-064.png"
+    },
+    {
+      "pdf_page_number": 65,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 5,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-065.png"
+    },
+    {
+      "pdf_page_number": 68,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-068.png"
+    },
+    {
+      "pdf_page_number": 69,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-069.png"
+    },
+    {
+      "pdf_page_number": 70,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-070.png"
+    },
+    {
+      "pdf_page_number": 71,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-071.png"
+    },
+    {
+      "pdf_page_number": 72,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-072.png"
+    },
+    {
+      "pdf_page_number": 75,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 6,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-075.png"
+    },
+    {
+      "pdf_page_number": 79,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-079.png"
+    },
+    {
+      "pdf_page_number": 80,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-080.png"
+    },
+    {
+      "pdf_page_number": 84,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-084.png"
+    },
+    {
+      "pdf_page_number": 86,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-086.png"
+    },
+    {
+      "pdf_page_number": 89,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 7,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-089.png"
+    },
+    {
+      "pdf_page_number": 91,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-091.png"
+    },
+    {
+      "pdf_page_number": 92,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 140,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-092.png"
+    },
+    {
+      "pdf_page_number": 95,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-095.png"
+    },
+    {
+      "pdf_page_number": 97,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-097.png"
+    },
+    {
+      "pdf_page_number": 99,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-099.png"
+    },
+    {
+      "pdf_page_number": 100,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-100.png"
+    },
+    {
+      "pdf_page_number": 101,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-101.png"
+    },
+    {
+      "pdf_page_number": 102,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-102.png"
+    },
+    {
+      "pdf_page_number": 103,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-103.png"
+    },
+    {
+      "pdf_page_number": 105,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-105.png"
+    },
+    {
+      "pdf_page_number": 108,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-108.png"
+    },
+    {
+      "pdf_page_number": 109,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-109.png"
+    },
+    {
+      "pdf_page_number": 110,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-110.png"
+    },
+    {
+      "pdf_page_number": 111,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-111.png"
+    },
+    {
+      "pdf_page_number": 113,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 110,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-113.png"
+    },
+    {
+      "pdf_page_number": 115,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 186,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-115.png"
+    },
+    {
+      "pdf_page_number": 117,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-117.png"
+    },
+    {
+      "pdf_page_number": 121,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-121.png"
+    },
+    {
+      "pdf_page_number": 122,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-122.png"
+    },
+    {
+      "pdf_page_number": 124,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-124.png"
+    },
+    {
+      "pdf_page_number": 125,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-125.png"
+    },
+    {
+      "pdf_page_number": 126,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-126.png"
+    },
+    {
+      "pdf_page_number": 127,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-127.png"
+    },
+    {
+      "pdf_page_number": 128,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-128.png"
+    },
+    {
+      "pdf_page_number": 129,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-129.png"
+    },
+    {
+      "pdf_page_number": 130,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-130.png"
+    },
+    {
+      "pdf_page_number": 132,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-132.png"
+    },
+    {
+      "pdf_page_number": 133,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 7,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-133.png"
+    },
+    {
+      "pdf_page_number": 134,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-134.png"
+    },
+    {
+      "pdf_page_number": 135,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-135.png"
+    },
+    {
+      "pdf_page_number": 136,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-136.png"
+    },
+    {
+      "pdf_page_number": 137,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 730,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-137.png"
+    },
+    {
+      "pdf_page_number": 138,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-138.png"
+    },
+    {
+      "pdf_page_number": 139,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-139.png"
+    },
+    {
+      "pdf_page_number": 140,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-140.png"
+    },
+    {
+      "pdf_page_number": 141,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-141.png"
+    },
+    {
+      "pdf_page_number": 144,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-144.png"
+    },
+    {
+      "pdf_page_number": 145,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-145.png"
+    },
+    {
+      "pdf_page_number": 146,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-146.png"
+    },
+    {
+      "pdf_page_number": 147,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-147.png"
+    },
+    {
+      "pdf_page_number": 148,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-148.png"
+    },
+    {
+      "pdf_page_number": 149,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-149.png"
+    },
+    {
+      "pdf_page_number": 150,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-150.png"
+    },
+    {
+      "pdf_page_number": 152,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-152.png"
+    },
+    {
+      "pdf_page_number": 153,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-153.png"
+    },
+    {
+      "pdf_page_number": 154,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-154.png"
+    },
+    {
+      "pdf_page_number": 155,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-155.png"
+    },
+    {
+      "pdf_page_number": 159,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-159.png"
+    },
+    {
+      "pdf_page_number": 161,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-161.png"
+    },
+    {
+      "pdf_page_number": 162,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 8,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-162.png"
+    },
+    {
+      "pdf_page_number": 168,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 357,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-168.png"
+    },
+    {
+      "pdf_page_number": 169,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 646,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-169.png"
+    },
+    {
+      "pdf_page_number": 172,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 192,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-172.png"
+    },
+    {
+      "pdf_page_number": 194,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-194.png"
+    },
+    {
+      "pdf_page_number": 196,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-196.png"
+    },
+    {
+      "pdf_page_number": 201,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-201.png"
+    },
+    {
+      "pdf_page_number": 205,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-205.png"
+    },
+    {
+      "pdf_page_number": 206,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 258,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-206.png"
+    },
+    {
+      "pdf_page_number": 207,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 849,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-207.png"
+    },
+    {
+      "pdf_page_number": 208,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 10,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-208.png"
+    },
+    {
+      "pdf_page_number": 209,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-209.png"
+    },
+    {
+      "pdf_page_number": 210,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-210.png"
+    },
+    {
+      "pdf_page_number": 211,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-211.png"
+    },
+    {
+      "pdf_page_number": 212,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-212.png"
+    },
+    {
+      "pdf_page_number": 213,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 5,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-213.png"
+    },
+    {
+      "pdf_page_number": 214,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-214.png"
+    },
+    {
+      "pdf_page_number": 215,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-215.png"
+    },
+    {
+      "pdf_page_number": 216,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-216.png"
+    },
+    {
+      "pdf_page_number": 217,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-217.png"
+    },
+    {
+      "pdf_page_number": 218,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-218.png"
+    },
+    {
+      "pdf_page_number": 219,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 796,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-219.png"
+    },
+    {
+      "pdf_page_number": 220,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table",
+        "equation"
+      ],
+      "drawing_path_count": 699,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-220.png"
+    },
+    {
+      "pdf_page_number": 221,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-221.png"
+    },
+    {
+      "pdf_page_number": 222,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 8,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-222.png"
+    },
+    {
+      "pdf_page_number": 223,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 8,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-223.png"
+    },
+    {
+      "pdf_page_number": 224,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 8,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-224.png"
+    },
+    {
+      "pdf_page_number": 225,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 5,
+      "image_count": 8,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-225.png"
+    },
+    {
+      "pdf_page_number": 226,
+      "kinds": [
+        "image"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 8,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-226.png"
+    },
+    {
+      "pdf_page_number": 229,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 629,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-229.png"
+    },
+    {
+      "pdf_page_number": 230,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 1367,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-230.png"
+    },
+    {
+      "pdf_page_number": 231,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 1204,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-231.png"
+    },
+    {
+      "pdf_page_number": 232,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 1097,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-232.png"
+    },
+    {
+      "pdf_page_number": 233,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 998,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-233.png"
+    },
+    {
+      "pdf_page_number": 234,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 1037,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-234.png"
+    },
+    {
+      "pdf_page_number": 235,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 1137,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-235.png"
+    },
+    {
+      "pdf_page_number": 236,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 424,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-236.png"
+    },
+    {
+      "pdf_page_number": 237,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 243,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-237.png"
+    },
+    {
+      "pdf_page_number": 238,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 70,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-238.png"
+    },
+    {
+      "pdf_page_number": 244,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 54,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-244.png"
+    },
+    {
+      "pdf_page_number": 246,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 540,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-246.png"
+    },
+    {
+      "pdf_page_number": 247,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 931,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-247.png"
+    },
+    {
+      "pdf_page_number": 248,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 599,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-248.png"
+    },
+    {
+      "pdf_page_number": 249,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 531,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-249.png"
+    },
+    {
+      "pdf_page_number": 250,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 615,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-250.png"
+    },
+    {
+      "pdf_page_number": 251,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 640,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-251.png"
+    },
+    {
+      "pdf_page_number": 252,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 459,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-252.png"
+    },
+    {
+      "pdf_page_number": 253,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 884,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-253.png"
+    },
+    {
+      "pdf_page_number": 254,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 902,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-254.png"
+    },
+    {
+      "pdf_page_number": 255,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 722,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-255.png"
+    },
+    {
+      "pdf_page_number": 256,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 103,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-c-technical/page-256.png"
+    }
+  ],
+  "warnings": []
+}

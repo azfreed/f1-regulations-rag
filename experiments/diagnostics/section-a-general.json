@@ -1,0 +1,206 @@
+{
+  "source_filename": "section-a-general.pdf",
+  "section": "A",
+  "document_title": "SECTION A: GENERAL REGULATORY PROVISIONS",
+  "issue_number": 3,
+  "publication_date": "2026-06-25",
+  "wmsc_approval_date": "2026-06-23",
+  "page_count": 84,
+  "n_articles": 235,
+  "n_toc_pages": 3,
+  "first_articles": [
+    {
+      "article_number": "A1",
+      "parent_article": null,
+      "heading": "GENERAL PRINCIPLES",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": ""
+    },
+    {
+      "article_number": "A1.1",
+      "parent_article": "A1",
+      "heading": "Overview",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": ""
+    },
+    {
+      "article_number": "A1.1.1",
+      "parent_article": "A1.1",
+      "heading": "Overview",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": "The FIA is responsible for the sporting organisation and regulation of the FIA Formula One World\nChampionship (the \u201cCham"
+    },
+    {
+      "article_number": "A1.1.2",
+      "parent_article": "A1.1",
+      "heading": "Overview",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": "The Championship is the exclusive property of the FIA. The FIA has granted the Commercial Rights\nHolder the exclusive ri"
+    },
+    {
+      "article_number": "A1.1.3",
+      "parent_article": "A1.1",
+      "heading": "Overview",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": "This Section A (General Regulatory Provisions) and its appendices include provisions that are of\ngeneral application to "
+    },
+    {
+      "article_number": "A1.2",
+      "parent_article": "A1",
+      "heading": "Applicable regulations",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": ""
+    },
+    {
+      "article_number": "A1.2.1",
+      "parent_article": "A1.2",
+      "heading": "Applicable regulations",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": "The Championship, each of its Competitions, and all F1 Activities are governed by the FIA in\naccordance with the FIA rul"
+    },
+    {
+      "article_number": "A1.2.2",
+      "parent_article": "A1.2",
+      "heading": "Applicable regulations",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": "The \u201cFIA F1 Regulations\u201d comprise the following:\n-\n-\n-\n-\n-\nappendices; and\n-"
+    },
+    {
+      "article_number": "A1.2.3",
+      "parent_article": "A1.2",
+      "heading": "FIA F1 Documents",
+      "pdf_page_number": 5,
+      "page_label": "A5",
+      "text_preview": "a.\nThe FIA may issue additional documents from time to time (\u201cFIA F1 Documents\u201d) which may\ncontain binding guidance (to "
+    },
+    {
+      "article_number": "A1.2.4",
+      "parent_article": "A1.2",
+      "heading": "Applicable Laws",
+      "pdf_page_number": 6,
+      "page_label": "A6",
+      "text_preview": "Nothing in the FIA F1 Regulations is intended to compromise or affect the application of Applicable\nLaws. The FIA F1 Reg"
+    },
+    {
+      "article_number": "A1.3",
+      "parent_article": "A1",
+      "heading": "Application",
+      "pdf_page_number": 7,
+      "page_label": "A7",
+      "text_preview": ""
+    },
+    {
+      "article_number": "A1.3.1",
+      "parent_article": "A1.3",
+      "heading": "Application",
+      "pdf_page_number": 7,
+      "page_label": "A7",
+      "text_preview": "Any Covered Person (as defined in Article A1.3.2) participating in any capacity in the Championship,\nany Competition, or"
+    },
+    {
+      "article_number": "A1.3.2",
+      "parent_article": "A1.3",
+      "heading": "Application",
+      "pdf_page_number": 7,
+      "page_label": "A7",
+      "text_preview": "The FIA Rules and Regulations (including the FIA F1 Regulations) apply to the following Persons\n(each a \u201cCovered Person\u201d"
+    },
+    {
+      "article_number": "A1.3.3",
+      "parent_article": "A1.3",
+      "heading": "Application",
+      "pdf_page_number": 7,
+      "page_label": "A7",
+      "text_preview": "For the avoidance of doubt, given that Covered Persons are bound by all FIA Rules and Regulations,\nif a Covered Person i"
+    },
+    {
+      "article_number": "A1.4",
+      "parent_article": "A1",
+      "heading": "General responsibility for breaches",
+      "pdf_page_number": 7,
+      "page_label": "A7",
+      "text_preview": ""
+    }
+  ],
+  "likely_visual_pages": [
+    {
+      "pdf_page_number": 10,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "equation"
+      ],
+      "drawing_path_count": 363,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-010.png"
+    },
+    {
+      "pdf_page_number": 54,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 179,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-054.png"
+    },
+    {
+      "pdf_page_number": 61,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-061.png"
+    },
+    {
+      "pdf_page_number": 68,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 5,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-068.png"
+    },
+    {
+      "pdf_page_number": 70,
+      "kinds": [
+        "diagram",
+        "drawing",
+        "table"
+      ],
+      "drawing_path_count": 679,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-070.png"
+    },
+    {
+      "pdf_page_number": 72,
+      "kinds": [
+        "equation"
+      ],
+      "drawing_path_count": 4,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-072.png"
+    },
+    {
+      "pdf_page_number": 81,
+      "kinds": [
+        "diagram",
+        "drawing"
+      ],
+      "drawing_path_count": 115,
+      "image_count": 6,
+      "page_image_path": "/Users/aaronzhufreedman/Projects/f1-regulations-rag/data/visual/section-a-general/page-081.png"
+    }
+  ],
+  "warnings": []
+}

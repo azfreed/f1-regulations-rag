@@ -1,0 +1,114 @@
+{
+  "version": "2026-seed-v1",
+  "cases": [
+    {
+      "id": "points-system",
+      "question": "How are World Championship points awarded in a Grand Prix?",
+      "expected_articles": [
+        "A2.2"
+      ],
+      "expected_answer_terms": [
+        "points",
+        "first",
+        "tenth"
+      ],
+      "answerable": true,
+      "notes": "Section A championship points system."
+    },
+    {
+      "id": "factory-shutdown",
+      "question": "What restrictions apply during a factory shutdown period?",
+      "expected_articles": [
+        "B"
+      ],
+      "expected_answer_terms": [
+        "shutdown",
+        "period"
+      ],
+      "answerable": true,
+      "notes": "Restricted/shutdown period rules (Sporting)."
+    },
+    {
+      "id": "cost-cap",
+      "question": "What is included in the cost cap for F1 teams?",
+      "expected_articles": [
+        "D"
+      ],
+      "expected_answer_terms": [
+        "cost",
+        "cap"
+      ],
+      "answerable": true,
+      "notes": "Section D financial regulations."
+    },
+    {
+      "id": "fillet-radius",
+      "question": "How is a Fillet Radius defined in the technical regulations?",
+      "expected_articles": [
+        "C3.2.6"
+      ],
+      "expected_answer_terms": [
+        "fillet",
+        "internal corner",
+        "concave"
+      ],
+      "answerable": true,
+      "notes": "Section C technical definitions."
+    },
+    {
+      "id": "pressure-tappings",
+      "question": "What are the rules for pressure tappings on the car?",
+      "expected_articles": [
+        "C3.2.7"
+      ],
+      "expected_answer_terms": [
+        "pressure",
+        "2mm",
+        "flush"
+      ],
+      "answerable": true,
+      "notes": "Section C pressure measuring apertures."
+    },
+    {
+      "id": "entry-applications",
+      "question": "What is required for an F1 team entry application?",
+      "expected_articles": [
+        "A3.1"
+      ],
+      "expected_answer_terms": [
+        "entry",
+        "application"
+      ],
+      "answerable": true,
+      "notes": null
+    },
+    {
+      "id": "anti-doping",
+      "question": "What does the anti-doping provision require?",
+      "expected_articles": [
+        "A4.2"
+      ],
+      "expected_answer_terms": [
+        "anti-doping"
+      ],
+      "answerable": true,
+      "notes": null
+    },
+    {
+      "id": "ticket-prices",
+      "question": "How much does a general admission ticket to the Monaco Grand Prix cost?",
+      "expected_articles": [],
+      "expected_answer_terms": [],
+      "answerable": false,
+      "notes": "Not covered by the regulations; system should decline."
+    },
+    {
+      "id": "driver-salary",
+      "question": "What is the maximum salary a driver can be paid?",
+      "expected_articles": [],
+      "expected_answer_terms": [],
+      "answerable": false,
+      "notes": "Driver salaries are excluded from the cost cap; no maximum is set."
+    }
+  ]
+}
